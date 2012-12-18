@@ -1,0 +1,657 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bg",
+				"background-repeat"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"to",
+				"toggleClass"
+			],
+			[
+				"active",
+				"activeSlide"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"widt",
+				"width"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"Con",
+				"Contraseña"
+			],
+			[
+				"for",
+				"formBg"
+			],
+			[
+				"final",
+				"finalURL"
+			],
+			[
+				"fl",
+				"sprite_flowers"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"con",
+				"control-label"
+			],
+			[
+				"subs",
+				"subscribe"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"fi",
+				"first-child"
+			],
+			[
+				"light",
+				"light_color"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"pdr",
+				"product-grid-button"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"te",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pret",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pacl",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ivancamilovasquez/Development/Projects/personal/home-page/project.sublime-workspace",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/js/app.js",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/.htaccess",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/404.php",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/less/app.less",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/css/app.css",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/page-acerca-de-redpatria.php",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/index.php",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/less/mixins.less",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/page-condiciones-del-servicio.php",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/header.php",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/page-terminos-y-condiciones.php",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/page-conocenos.php",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/less/fonticons-ie.less",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/less/fonticons.less",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/css/foundation.min.css",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/less/fonticons.css",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/footer.php",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/img/colliseum.jpg",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/functions.php",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/enter/custom/themes/responsive-enter/functions.php",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/enter/custom/themes/responsive-enter/header.php",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/enter/custom/themes/responsive-enter/loop-default.php",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/enter/custom/themes/responsive-enter/single.php",
+		"/Users/ivancamilovasquez/Downloads/foundation_icons_general/stylesheets/general_foundicons.css",
+		"/Users/ivancamilovasquez/Downloads/foundation_icons_social/stylesheets/social_foundicons.css",
+		"/Users/ivancamilovasquez/Downloads/foundation_icons_social/stylesheets/social_foundicons_ie7.css",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/less/fonticons-ie.css",
+		"/Users/ivancamilovasquez/Downloads/foundation_icons_accessibility/stylesheets/accessibility_foundicons.css",
+		"/Users/ivancamilovasquez/Downloads/foundation_icons_accessibility/stylesheets/accessibility_foundicons_ie7.css",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/less/ie.css",
+		"/Users/ivancamilovasquez/Downloads/foundation_icons_accessibility/demo.html",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/less/ie.less",
+		"/Users/ivancamilovasquez/Downloads/foundation_icons_general/stylesheets/general_foundicons_ie7.css",
+		"/Users/ivancamilovasquez/Downloads/foundation_icons_accessibility/sass/accessibility_foundicons.scss",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/js/jquery.event.swipe.js",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/js/foundation.min.js",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/js/jquery.event.move.js",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/js/jquery.foundation.orbit.js",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/js/jquery.js",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/index.html",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/css/foundation.css",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/twentyten/footer.php",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/js/modernizr.foundation.js",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/twentyten/functions.php",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/twentyten/header.php",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/twentyten/index.php",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/index.html",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/less/app.less",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/stylesheets/foundation.css",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/realty.html",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/orbit.html",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/stylesheets/app.css",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/javascripts/jquery.foundation.orbit.js",
+		"/Applications/MAMP/conf/apache/extra/httpd-vhosts.conf",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/Guardfile",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/.project",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/shared/_menu.haml",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/controllers/users/invitations_controller.rb",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/controllers/users/photos_controller.rb",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/layouts/application.haml",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/users/sessions/new.haml",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/admins/sessions/new.haml",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/admins/sessions/new.html.erb",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/users/registrations/edit.html.erb",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/users/interests/edit.html.erb",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/users/confirmations/new.html.erb",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/civico_mailer/welcome_email.html.erb",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/civico_mailer/invitation_email.text.erb",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/civico_mailer/invitation_email.haml",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/controllers/users/registrations_controller.rb",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/controllers/application_controller.rb",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/layouts/_messages.haml",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/assets/stylesheets/variables.scss",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/users/registrations/new.haml",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/assets/stylesheets/users.css.scss",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/assets/stylesheets/home.css.scss",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/assets/stylesheets/foundation_and_overrides.scss",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/assets/stylesheets/application.scss",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/home/index.haml",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/assets/javascripts/users.js",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/assets/stylesheets/scaffolds.css.scss",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/users/invitations/_form.html.erb",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/config/local_env_build.xml",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/config/routes.rb",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/shared/_external_menu.haml",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/Gemfile",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/users/shared/_links.haml",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/users/shared/_links.erb",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/users/registrations/new.html.erb.del",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/users/registrations/new.html.erb",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/users/sessions/new.html.erb",
+		"/Users/ivancamilovasquez/Dropbox/Analytics Codes/Conversion Tracking/eldiacero.com.html",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/assets/javascripts/application.js",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/assets/javascripts/application.js.coffee",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/shared/_footer.haml",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/Guardfile",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/config.ru",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/assets/javascripts/home.js.coffee",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/assets/stylesheets/invitations.css.scss",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/assets/images/rails.png",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/public/422.html",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/public/500.html",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/public/__index.html",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/doc/README_FOR_APP",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/config/application.rb",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/config/environment.rb",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/layouts/application.html.erb",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/home/index.html.erb",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/home/test.haml",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/views/layouts/_messages.html.erb",
+		"/Users/ivancamilovasquez/Dropbox/Plataforma Ingeniería/Pruebas de Ingreso/PHP Carlos Lancheros/PHP Programming test.txt",
+		"/Users/ivancamilovasquez/Desktop/Programming test.txt",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/app/controllers/home_controller.rb",
+		"/Users/ivancamilovasquez/Dropbox/Plataforma Ingeniería/Pruebas de Ingreso/Carlos Alberto Lancheros.txt",
+		"/Users/ivancamilovasquez/Dropbox/Plataforma Ingeniería/PHP Programming test.txt",
+		"/Users/ivancamilovasquez/Dropbox/Plataforma Ingeniería/Programming test.txt",
+		"/Users/ivancamilovasquez/Dropbox/Plataforma Ingeniería/solution to PHP Programming test.txt",
+		"/Users/ivancamilovasquez/Dropbox/Plataforma Ingeniería/solution to PHP Programming test – index.php",
+		"/Users/ivancamilovasquez/Dropbox/Plataforma Ingeniería/solution to PHP Programming test - index.html",
+		"/Users/ivancamilovasquez/Dropbox/Plataforma Ingeniería/PHP Programming test",
+		"/Users/ivancamilovasquez/Dropbox/Plataforma Ingeniería/Pruebas de Ingreso/PHP Programming test",
+		"/Users/ivancamilovasquez/Dropbox/Analytics Codes/Afiliados/revistagobierno.com.html",
+		"/Users/ivancamilovasquez/Dropbox/Analytics Codes/Afiliados/2qualitycolombia.com.html",
+		"/Users/ivancamilovasquez/Dropbox/Analytics Codes/Afiliados/educacionsantamarta.blogspot.com.html",
+		"/Users/ivancamilovasquez/Dropbox/Analytics Codes/Afiliados/sombrerovueltiao.co.html",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/petalos/Guardfile",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/Rakefile"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/ivancamilovasquez/Development/Projects/puntomob/petalos",
+			"/Users/ivancamilovasquez/Development/Projects/puntomob/petalos/app/design/frontend",
+			"/Users/ivancamilovasquez/Development/Projects/puntomob/petalos/app/design/frontend/bootstrapped",
+			"/Users/ivancamilovasquez/Development/Projects/puntomob/petalos/app",
+			"/Users/ivancamilovasquez/Development/Projects/puntomob/petalos/app/code/local/Mage",
+			"/Users/ivancamilovasquez/Development/Projects/puntomob/petalostheme",
+			"/Users/ivancamilovasquez/Development/Projects/puntomob/petalostheme/skin/frontend/bootstrapped/base/js",
+			"/Users/ivancamilovasquez/Development/Projects/puntomob/petalostheme",
+			"/Users/ivancamilovasquez/Development/Projects/puntomob/petalostheme/skin/frontend/bootstrapped/base/less",
+			"/Users/ivancamilovasquez/Development/Projects/puntomob/petalostheme",
+			"/Users/ivancamilovasquez/Development/Projects/puntomob/petalostheme/app/design/frontend/base/default/layout",
+			"/Users/ivancamilovasquez/Development/Training/Magento/app/design/frontend/bootstrapped",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"background-position",
+			"-200",
+			"messagepanel",
+			"%);\n",
+			"redColor",
+			"content: \\\"\\\\e(.)*\\\";",
+			"box",
+			"200px",
+			"transition",
+			"hover",
+			"transition",
+			"shadow",
+			"button",
+			"body.page",
+			"font",
+			"link",
+			"messagepanel",
+			"transition",
+			"text",
+			"runtimeStyle['zoom']",
+			"expression(.*);",
+			"runtimeStyle['zoom']",
+			"expression(.*);",
+			"form",
+			"orbit",
+			"event.special",
+			".event",
+			"event",
+			"swipe",
+			"red",
+			"shadow",
+			"rgb",
+			"color-stop",
+			"../images",
+			"images",
+			"css",
+			"940",
+			"<%",
+			" %>",
+			"contain",
+			"Civico",
+			"vhost-dir",
+			"Include",
+			"form/",
+			"form",
+			"form.html",
+			"/form\\/\\?s=b_",
+			"form",
+			"lluvia_de_sobres",
+			"form.html",
+			"form\\/\\?s=a_",
+			"form",
+			"form\\/\\?s=a",
+			"form",
+			"#",
+			"products-grid",
+			"backgr",
+			"related",
+			"image",
+			"compare",
+			"product",
+			".flexslider",
+			"label",
+			"container2",
+			"price",
+			"price-box",
+			"product-img-box",
+			"Suscríbase a nuestro Boletín de Noticias",
+			"footer_links",
+			"html_footer",
+			"btn-danger",
+			"test1",
+			"shadow",
+			"addCartLink",
+			"My Cart",
+			"addCartLink",
+			"dropdown-toggle",
+			"box-shadow",
+			"inputBorder",
+			"Search entire store here",
+			".box-shadow",
+			"box-shadow",
+			"transition",
+			"border",
+			"gradient",
+			"addLinkBlock",
+			"My Wishlist",
+			"My Whishlist",
+			"Search entire store here",
+			"addCartLink",
+			"links",
+			"wishlist_link",
+			"top.links",
+			"My Wishlist",
+			"wishlist_link",
+			"addLink",
+			"is_tablet",
+			"media",
+			"VirtualHost",
+			"virtualhost",
+			"#9E2985",
+			"page_one_column",
+			"addLink",
+			"link",
+			"navbar-fixed-top",
+			"http://bootstrapped.magenthon.com/favicon.ico",
+			"a",
+			"w\n",
+			"$",
+			"$\n",
+			"$",
+			"\n",
+			"$",
+			"\\n",
+			"$",
+			"&equal;",
+			"=",
+			"../assets/js",
+			"Sociales",
+			"sociales",
+			"sociales_meta_",
+			"5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"*zoom: ~'expression(this.runtimeStyle[\"zoom\"] = \"1\", this.innerHTML = \"&#xe$1;\")';",
+			"body.page-template-page-acerca-de-redpatria-php",
+			"runtimeStyle[\"zoom\"]",
+			"~'expression$1';",
+			"runtimeStyle[\"zoom\"]",
+			"~'expression$1';",
+			"~\"expression$1\";",
+			"~\"expression($1)\";",
+			"~\"expression({$1})\";",
+			"../img",
+			"",
+			"base-url",
+			"/form/",
+			"/form/?s=b&p=luna_de_miel&l=",
+			"/form/?s=b&p=lluvia_de_sobres&l=",
+			"/form/?s=b&p=lista_de_regalos&l=",
+			"/form/?s=b&p=index&l=",
+			"luna_de_miel",
+			"form/?s=a&p=lluvia_de_sobres&l=",
+			"form/?s=a&p=lista_de_regalos&l=",
+			"form/?s=a&p=index&l=",
+			"form/?s=b",
+			"@main_color",
+			"w",
+			"$",
+			"&equal;",
+			"/js",
+			"Video",
+			"video",
+			"video_meta_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"prett",
+				"skin/frontend/bootstrapped/base/docs/assets/js/google-code-prettify/prettify.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/ivancamilovasquez/Development/Projects/personal/home-page/project.sublime-project"
+			],
+			[
+				"civi",
+				"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/civico.sublime-project"
+			],
+			[
+				"peta",
+				"/Users/ivancamilovasquez/Development/Projects/puntomob/petalos/petalos.sublime-project"
+			],
+			[
+				"per",
+				"/Users/ivancamilovasquez/Development/Projects/plataforma/perucom/perucom.sublime-project"
+			],
+			[
+				"pet",
+				"/Users/ivancamilovasquez/Development/Projects/puntomob/petalos/petalos.sublime-project"
+			],
+			[
+				"torto",
+				"/Users/ivancamilovasquez/Development/Projects/plataforma/tortolos/tortolos.sublime-project"
+			],
+			[
+				"tor",
+				"/Users/ivancamilovasquez/Development/Projects/plataforma/tortolos/tortolos.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true
+}
