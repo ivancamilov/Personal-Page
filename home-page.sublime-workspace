@@ -4,15 +4,35 @@
 		"selected_items":
 		[
 			[
-				"back",
-				"background-color"
+				"marg",
+				"margin-right"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"tex",
+				"text-decoration"
 			],
 			[
 				"pa",
-				"padding"
+				"padding-left"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ba",
+				"background-attachment"
 			],
 			[
 				"bac",
+				"background-position"
+			],
+			[
+				"back",
 				"background-color"
 			],
 			[
@@ -30,10 +50,6 @@
 			[
 				"ma",
 				"margin-top"
-			],
-			[
-				"ba",
-				"background-color"
 			],
 			[
 				"font",
@@ -96,10 +112,6 @@
 				"border-bottom"
 			],
 			[
-				"tex",
-				"text-align"
-			],
-			[
 				"Con",
 				"Contraseña"
 			],
@@ -110,10 +122,6 @@
 			[
 				"final",
 				"finalURL"
-			],
-			[
-				"fl",
-				"sprite_flowers"
 			],
 			[
 				"no",
@@ -130,10 +138,6 @@
 			[
 				"subs",
 				"subscribe"
-			],
-			[
-				"marg",
-				"margin"
 			],
 			[
 				"fi",
@@ -228,6 +232,12 @@
 	},
 	"file_history":
 	[
+		"/Users/ivancamilovasquez/Development/Projects/personal/home-page/css/style.css",
+		"/Users/ivancamilovasquez/Development/Projects/personal/home-page/index.html",
+		"/Users/ivancamilovasquez/Downloads/icomoon52291/style.css",
+		"/Users/ivancamilovasquez/Development/Projects/personal/home-page/MIT-license.txt",
+		"/Users/ivancamilovasquez/Development/Projects/personal/home-page/Guardfile",
+		"/Users/ivancamilovasquez/Development/Projects/personal/home-page/home-page.sublime-workspace",
 		"/Users/ivancamilovasquez/Development/Projects/personal/home-page/project.sublime-workspace",
 		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/wp-content/themes/redpatria/js/app.js",
 		"/Users/ivancamilovasquez/Development/Projects/puntomob/RedPatria/.htaccess",
@@ -349,13 +359,7 @@
 		"/Users/ivancamilovasquez/Dropbox/Plataforma Ingeniería/solution to PHP Programming test – index.php",
 		"/Users/ivancamilovasquez/Dropbox/Plataforma Ingeniería/solution to PHP Programming test - index.html",
 		"/Users/ivancamilovasquez/Dropbox/Plataforma Ingeniería/PHP Programming test",
-		"/Users/ivancamilovasquez/Dropbox/Plataforma Ingeniería/Pruebas de Ingreso/PHP Programming test",
-		"/Users/ivancamilovasquez/Dropbox/Analytics Codes/Afiliados/revistagobierno.com.html",
-		"/Users/ivancamilovasquez/Dropbox/Analytics Codes/Afiliados/2qualitycolombia.com.html",
-		"/Users/ivancamilovasquez/Dropbox/Analytics Codes/Afiliados/educacionsantamarta.blogspot.com.html",
-		"/Users/ivancamilovasquez/Dropbox/Analytics Codes/Afiliados/sombrerovueltiao.co.html",
-		"/Users/ivancamilovasquez/Development/Projects/puntomob/petalos/Guardfile",
-		"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/Rakefile"
+		"/Users/ivancamilovasquez/Dropbox/Plataforma Ingeniería/Pruebas de Ingreso/PHP Programming test"
 	],
 	"find":
 	{
@@ -618,12 +622,12 @@
 		"selected_items":
 		[
 			[
-				"",
-				"/Users/ivancamilovasquez/Development/Projects/personal/home-page/project.sublime-project"
-			],
-			[
 				"civi",
 				"/Users/ivancamilovasquez/Development/Projects/plataforma/civico12/civico.sublime-project"
+			],
+			[
+				"",
+				"/Users/ivancamilovasquez/Development/Projects/personal/home-page/project.sublime-project"
 			],
 			[
 				"peta",
