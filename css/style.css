@@ -40,12 +40,51 @@ a:hover {
     border-bottom: 1px solid rgba(255,255,255,1);
 }
 
+#about {
+  opacity: 0;
+  -webkit-transform: translateY(-2rem);
+      -ms-transform: translateY(-2rem);
+          transform: translateY(-2rem);
+
+  -webkit-transition: opacity 0.3s ease-out,
+                      -webkit-transform 0.3s ease-out;
+
+          transition: opacity 0.3s ease-out,
+                      transform 0.3s ease-out;
+}
+
+#about.active {
+  opacity: 1;
+
+  -webkit-transform: translateY(0);
+      -ms-transform: translateY(0);
+          transform: translateY(0);
+}
+
 #monogram {
     width: 50px;
     padding: 5px 20px 0 50px;
     margin: 50px auto 0 0;
     background: #E40101;
     box-shadow: 1px 4px 5px #999;
+    opacity: 0;
+    -webkit-transform: translateY(-2rem);
+        -ms-transform: translateY(-2rem);
+            transform: translateY(-2rem);
+
+    -webkit-transition: opacity 0.3s ease-out,
+                        -webkit-transform 0.3s ease-out;
+
+            transition: opacity 0.3s ease-out,
+                        transform 0.3s ease-out;
+}
+
+#monogram.active {
+  opacity: 1;
+
+  -webkit-transform: translateY(0);
+      -ms-transform: translateY(0);
+          transform: translateY(0);
 }
 
 #about, #footer {
@@ -57,6 +96,25 @@ a:hover {
 #footer {
     font-size: 3em;
     text-shadow: 0 1px 2px #999;
+
+    opacity: 0;
+    -webkit-transform: translateY(-2rem);
+        -ms-transform: translateY(-2rem);
+            transform: translateY(-2rem);
+
+    -webkit-transition: opacity 0.3s ease-out,
+                        -webkit-transform 0.3s ease-out;
+
+            transition: opacity 0.3s ease-out,
+                        transform 0.3s ease-out;
+}
+
+#footer.active {
+  opacity: 1;
+
+  -webkit-transform: translateY(0);
+      -ms-transform: translateY(0);
+          transform: translateY(0);
 }
 
 #footer a {
@@ -65,6 +123,10 @@ a:hover {
     float: left;
     display: block;
     margin-right: 10px;
+}
+
+#footer a:first-child {
+  margin-left: 1rem;
 }
 
 #footer span {

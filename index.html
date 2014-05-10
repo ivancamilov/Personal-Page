@@ -16,8 +16,8 @@
 
 	<link rel="stylesheet" href="css/style.css">
 
-</head>	
-    
+</head>
+
 <body>
 
 <div id="monogram">
@@ -27,18 +27,18 @@
 <section id="about">
 	<h1>Hi! I'm Ivan.</h1>
 	<p>
-		I'm a Colombian developer and designer. I'm currently a freelancer on my way to
-		build my own company. Currently I support <a href="http://enter.co" target="_blank">ENTER.CO</a>, a
-		responsive tech news site.
+		I'm a Colombian developer and designer. I'm the cofounder of
+		<a href="http://simian.co" target="_blank">Simian</a>, a Web & mobile design
+		and development studio.
 	</p>
 	<p>
-		My most recent employer was <a href="http://platafor.ma" target="_blank">platafor.ma</a>,
-		a digital business company that owns <a href="http://enter.co" target="_blank">ENTER.CO</a>.
+		I'm also the main organizer for <a href="http://bogotacss.com">BogotáCSS</a>,
+		an interest group for people that work with CSS –you guessed it– in Bogotá.
 	</p>
 	<p>
 		I've previously worked at <a href="http://eltiempo.com" target="_blank">El Tiempo</a> and
 		<a href="http://semana.com" target="_blank">Semana</a>, two of Colombia's most important media companies.
-		I've done a lot of things, but mostly focused on native mobile development and front end 
+		I've done a lot of things, but mostly focused on native mobile development and front end
 		web development.
 	</p>
 	<p>
@@ -47,25 +47,50 @@
 </section>
 
 <footer id="footer">
-	<a href="http://twitter.com/ivancamilov">
+	<a href="http://twitter.com/ivancamilov" target="_blank">
 		<span class="icon-twitter"></span>
 	</a>
-	<a href="http://facebook.com/theWebMacheter">
+	<a href="http://facebook.com/theWebMacheter" target="_blank">
 		<span class="icon-facebook"></span>
 	</a>
-	<a href="https://plus.google.com/100697427955790750294/posts">
+	<a href="https://plus.google.com/+IvanCamiloVásquezGüiza" target="_blank">
 		<span class="icon-gplus"></span>
 	</a>
-	<a href="http://github.com/ivancamilov">
+	<a href="http://github.com/ivancamilov" target="_blank">
 		<span class="icon-github"></span>
 	</a>
-	<a href="http://co.linkedin.com/in/ivancamilovasquez/">
+	<a href="http://co.linkedin.com/in/ivancamilovasquez/" target="_blank">
 		<span class="icon-linkedin"></span>
 	</a>
-	<a href="http://dribbble.com/ivancamilov">
+	<!--
+	TODO: Add this when I have a proper account!
+	
+	<a href="http://dribbble.com/ivancamilov" target="_blank">
 		<span class="icon-dribbble"></span>
 	</a>
+	-->
 </footer>
 
-</body>	
+<script type="text/javascript" charset="utf-8">
+
+	document.onreadystatechange = function() {
+		if(document.readyState == 'complete') {
+			setTimeout(function(){
+				document.querySelector('#monogram').className = 'active';
+
+				setTimeout(function(){
+					document.querySelector('#about').className = 'active';
+
+					setTimeout(function(){
+						document.querySelector('#footer').className = 'active';
+
+					}, 200);
+				}, 500);
+			}, 1000);
+		}
+	}
+
+</script>
+
+</body>
 </html>
