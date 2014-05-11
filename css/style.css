@@ -186,6 +186,13 @@ a:hover {
         left: 0;
         right: 0;
         z-index: -1;
+
+        -webkit-transition: opacity 0.3s ease-out;
+                transition: opacity 0.3s ease-out;
+    }
+
+    body.active:after {
+      opacity: 0.05;
     }
 
     #about, #footer {
@@ -196,7 +203,8 @@ a:hover {
     }
 
     #footer {
-        font-size: 2.4em;
+        /*font-size: 2.4em;*/
+        margin-bottom: 5rem !important;
     }
 }
 
