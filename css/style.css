@@ -4,7 +4,7 @@
 }
 
 html {
-
+  font-family: 'Open Sans', helvetica, sans-serif;
 }
 
 body {
@@ -15,17 +15,17 @@ body {
 
 h1 {
     color: #E40101;
-    font-family: Helvetica;
+    font-family: 'Bree Serif', serif;
     font-size: 3em;
-    text-shadow: 0 1px 2px #333;
+    text-shadow: 0 1px 2px rgba(139, 103, 103, 0.5);
+    line-height: 1.5;
 }
 
 p {
-    color: #333;
-    font-family: Helvetica;
-    font-size: 16px;
-    line-height: 24px;
-    margin-bottom: 22px;
+    color: #666;
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 1rem;
 }
 
 a {
@@ -33,6 +33,10 @@ a {
     font-weight: bold;
     text-decoration: none;
     border-bottom: 1px solid rgba(255,255,255,0.3);
+
+    -webkit-transition: color 0.3s ease-out;
+            transition: color 0.3s ease-out;
+
 }
 
 a:hover {
@@ -66,7 +70,7 @@ a:hover {
     padding: 5px 20px 0 50px;
     margin: 50px auto 0 0;
     background: #E40101;
-    box-shadow: 1px 4px 5px #999;
+    box-shadow: 0 4px 10px -2px #999;
     opacity: 0;
     -webkit-transform: translateY(-2rem);
         -ms-transform: translateY(-2rem);
@@ -96,25 +100,13 @@ a:hover {
 #footer {
     font-size: 3em;
     text-shadow: 0 1px 2px #999;
-
     opacity: 0;
-    -webkit-transform: translateY(-2rem);
-        -ms-transform: translateY(-2rem);
-            transform: translateY(-2rem);
-
-    -webkit-transition: opacity 0.3s ease-out,
-                        -webkit-transform 0.3s ease-out;
-
-            transition: opacity 0.3s ease-out,
-                        transform 0.3s ease-out;
+    -webkit-transition: opacity 0.3s ease-out;
+            transition: opacity 0.3s ease-out;
 }
 
 #footer.active {
   opacity: 1;
-
-  -webkit-transform: translateY(0);
-      -ms-transform: translateY(0);
-          transform: translateY(0);
 }
 
 #footer a {
@@ -123,6 +115,51 @@ a:hover {
     float: left;
     display: block;
     margin-right: 10px;
+
+    -webkit-transform: translateY(-4rem);
+        -ms-transform: translateY(-4rem);
+            transform: translateY(-4rem);
+}
+
+#footer a:first-child {
+  -webkit-transition: -webkit-transform 0.1s ease-out,
+                      color 0.3s ease-out;
+          transition: transform 0.1s ease-out,
+                      color 0.3s ease-out;
+}
+
+#footer a:nth-child(2) {
+  -webkit-transition: -webkit-transform 0.2s ease-out,
+                      color 0.3s ease-out;
+          transition: transform 0.2s ease-out,
+                      color 0.3s ease-out;
+}
+
+#footer a:nth-child(3) {
+  -webkit-transition: -webkit-transform 0.3s ease-out,
+                              color 0.3s ease-out;
+                  transition: transform 0.3s ease-out,
+                              color 0.3s ease-out;
+}
+
+#footer a:nth-child(4) {
+  -webkit-transition: -webkit-transform 0.4s ease-out,
+                      color 0.3s ease-out;
+          transition: transform 0.4s ease-out,
+                      color 0.3s ease-out;
+}
+
+#footer a:nth-child(5) {
+  -webkit-transition: -webkit-transform 0.5s ease-out,
+                      color 0.3s ease-out;
+          transition: transform 0.5s ease-out,
+                      color 0.3s ease-out;
+}
+
+#footer.active a {
+  -webkit-transform: translateY(0);
+      -ms-transform: translateY(0);
+          transform: translateY(0);
 }
 
 #footer a:first-child {
