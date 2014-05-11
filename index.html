@@ -32,6 +32,27 @@
 	<meta name="msapplication-TileColor" content="#bf0404">
 	<meta name="msapplication-TileImage" content="/mstile-144x144.png">
 
+	<script type="text/javascript" charset="utf-8">
+
+		document.onreadystatechange = function() {
+			if(document.readyState == 'complete') {
+				setTimeout(function(){
+					document.querySelector('#monogram').className = 'active';
+
+					setTimeout(function(){
+						document.querySelector('#about').className = 'active';
+
+						setTimeout(function(){
+							document.querySelector('#footer').className = 'active';
+
+						}, 500);
+					}, 200);
+				}, 1000);
+			}
+		}
+
+	</script>
+
 </head>
 
 <body>
@@ -86,27 +107,6 @@
 	</a>
 	-->
 </footer>
-
-<script type="text/javascript" charset="utf-8">
-
-	document.onreadystatechange = function() {
-		if(document.readyState == 'complete') {
-			setTimeout(function(){
-				document.querySelector('#monogram').className = 'active';
-
-				setTimeout(function(){
-					document.querySelector('#about').className = 'active';
-
-					setTimeout(function(){
-						document.querySelector('#footer').className = 'active';
-
-					}, 500);
-				}, 200);
-			}, 1000);
-		}
-	}
-
-</script>
 
 </body>
 </html>
