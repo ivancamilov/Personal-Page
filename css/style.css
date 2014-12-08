@@ -8,7 +8,7 @@ html {
 }
 
 body {
-    background: #FFF url('../img/bg.svgz') left bottom no-repeat;
+    background: #FFF url('../img/bg.svg') left bottom no-repeat;
     background-size: 55%;
     background-attachment: fixed;
 }
